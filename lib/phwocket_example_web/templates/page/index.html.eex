@@ -1,0 +1,11 @@
+<section>
+  <h2>Chat Server</h2>
+  <p>Messages will appear below:</p>
+
+  <ul id="chat"></ul>
+  <form>
+    <textarea rows="8" cols="80" id="message"></textarea>
+    <br>
+    <button type="submit">Send</button>
+  </form>
+</section>
